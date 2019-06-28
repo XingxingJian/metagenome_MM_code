@@ -1,5 +1,5 @@
 # metagenome_MM_code
-Alterations of gut microbiome accelerate multiple myeloma progression by increasing the relative abundances of nitrogen recycling bacteria
+"Alterations of gut microbiome accelerate multiple myeloma progression by increasing the relative abundances of nitrogen recycling bacteria"
 
 All code using in the manuscript, Alterations of gut microbiome accelerate multiple myeloma progression by increasing the relative abundances of nitrogen recycling bacteria, is presented here, including two Shell script in Linux and several R script in Windows.
 1.	run_kraken_standard: this script was used for taxa classification using Kraken.
